@@ -1,3 +1,3 @@
 jQuery(document).ready(function() {
-	$(".promo").text("Liverpool")
+	$ ("#destinations li")
 });
