@@ -1,3 +1,3 @@
 jQuery(document).ready(function() {
-	$("li").text("Orlando")
+	$("span").text("$100")
 });
