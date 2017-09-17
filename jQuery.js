@@ -1,3 +1,3 @@
 jQuery(document).ready(function() {
-	$ ("#destinations li")
+	$ ("#destinations li:even"). text("Khmelnitskiy")
 });
