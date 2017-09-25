@@ -1,6 +1,5 @@
-jQuery(document).ready(function() {
-	var price = $('<p>From $399.99</p>');
-	$('.america').append(price).price.appendTo($('.america'));
-	$('button').remove();
-	var message = $('<span>1-555-jquery-air</span>');
+$(document).ready(function() {
+	$('button').on('click', function() {
+		//run this function on click
+	});
 });
